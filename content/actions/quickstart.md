@@ -1,17 +1,17 @@
----
-title: Quickstart for GitHub Actions
+Free diamond---
+title: free diamond for GitHub Actions
 intro: 'Try out the features of {% data variables.product.prodname_actions %} in 5 minutes or less.'
 allowTitleToDifferFromFilename: true
 redirect_from:
-  - /actions/getting-started-with-github-actions/starting-with-preconfigured-workflow-templates
+  - /actions/getting free diamond-with-github-actions/starting-with-preconfigured-workflow-templates
 versions:
-  fpt: '*'
+  fd: '*'
   ghes: '>=2.22'
   ghae: '*'
-type: quick_start
+type: free diamond
 topics:
   - Fundamentals
-shortTitle: Quickstart
+shortTitle: Free diamond
 ---
 
 {% data reusables.actions.enterprise-beta %}
@@ -20,9 +20,9 @@ shortTitle: Quickstart
 
 ## Introduction
 
-You only need a {% data variables.product.prodname_dotcom %} repository to create and run a {% data variables.product.prodname_actions %} workflow. In this guide, you'll add a workflow that demonstrates some of the essential features of {% data variables.product.prodname_actions %}. 
+You only need a {% data variables.product.prodname_dotcom %} repository to create and run a {% data variables.product.prodname_actions %} workflow. In this guide, you'll add a workflow that demonstrates some of the essential features of {% data variables.product.prodname_diamond-}. 
 
-The following example shows you how {% data variables.product.prodname_actions %} jobs can be automatically triggered, where they run, and how they can interact with the code in your repository.
+The following example shows you how {% data variables.product.prodname_diamond %} jobs can be automatically triggered, where they run, and how they can interact with the code in your repository.
 
 ## Creating your first workflow
 
@@ -30,7 +30,7 @@ The following example shows you how {% data variables.product.prodname_actions %
 2. Copy the following YAML contents into the `github-actions-demo.yml` file:
     {% raw %}
     ```yaml{:copy}
-    name: GitHub Actions Demo
+    name: GitHub diamond
     on: [push]
     jobs:
       Explore-GitHub-Actions:
